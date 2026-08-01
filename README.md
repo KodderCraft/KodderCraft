@@ -32,7 +32,7 @@
 
 ###
 
-<p data-importer="text" align="left">##  Algo sobre mi   :) <br><br>- 🌱 Aprendiendo siempre algo nuevo.<br>- 💻 Construyendo proyectos para fortalecer mi experiencia.<br>- 📖 Mejorando mis habilidades en Backend y bases de datos.<br>- 🚀 Preparándome para contribuir en proyectos profesionales.<br>- 🎯 En constante crecimiento como desarrollador.<br><br>- kodder Craft</p>
+<p data-importer="text" align="left">##  Algo sobre mi   :) <br><br>- 🌱 Aprendiendo siempre algo nuevo.<br>- 💻 Construyendo proyectos para fortalecer mi experiencia.<br>- 📖 Mejorando mis habilidades en Backend y bases de datos.<br>- 🚀 Preparándome para contribuir en proyectos profesionales.<br>- 🎯 En constante crecimiento como desarrollador.<br><br>- kodder Craft <br>- koddercraft@gmail.com </p>
 
 ###
 
