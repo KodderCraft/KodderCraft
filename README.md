@@ -108,12 +108,4 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥  Mi estadística:</h3>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/KodderCraft/KodderCraft/activity-graph-output/activity-graph.svg?" height="150" alt="activity-graph graph"  />
-</div>
-
-###
